@@ -1,0 +1,24 @@
+body{
+    text-align:center;
+    background-color:aquamarine;
+}
+.container{
+    height:70vh;
+    color:aliceblue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.game{
+    height:60vmin;
+    width:60vmin;
+    gap:1.5vmin;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    align-items:center;
+}
+.box{
+    height:18vmin;
+    width:18vmin;
+}
